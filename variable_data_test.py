@@ -26,3 +26,4 @@ if __name__== "__main__":
         
         foldername = fname.split(".")[0]
         print(foldername)
+        # git testing purpose
